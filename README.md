@@ -15,7 +15,7 @@ This repository contains a collection of Python-based web scraping scripts for c
 ```
 
 AI_Web_Scraper
-├── chromedriver          # Download from https://googlechromelabs.github.io/chrome-for-testing/#stable     
+├── chromedriver          # Download from [https://googlechromelabs.github.io/chrome-for-testing/#stable](https://googlechromelabs.github.io/chrome-for-testing/#stable)
 ├── main.py      
 ├── parse.py         
 ├── requirements.txt                   
@@ -25,8 +25,6 @@ Wikipedia_Scraper
 ├── companies.csv
 ├── companies_BS.ipynb
 └── requirements.txt   
-
-          
 
 ````
 
